@@ -1,7 +1,7 @@
 #LISTS
-#l=[10,20,30,40,50]
-#l.extend([60,70])
-#print(l)
+l=[10,20,30,40,50]
+l.extend([60,70])
+print(l)
 #l.append([60,70])
 #print(l)
 #l.extend('python')
